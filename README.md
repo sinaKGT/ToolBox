@@ -15,9 +15,9 @@ Welcome to **ToolBox** — a growing collection of useful tools I've developed t
 
 ## 🚀 How to Use
 - Creating Virtual Environment and Activate that.
-    - Python -m venv env
+    - python -m venv env
     - Win: ./env/script/activate
-    - Linux: Source/Script/activate
+    - Linux: Source env/bin/activate
 - Install packages
     - pip install -r requirements.txt
 - Run the python program
